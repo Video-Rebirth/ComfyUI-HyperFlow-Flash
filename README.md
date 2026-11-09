@@ -1,5 +1,7 @@
 # ComfyUI-HyperFlow-Flash
 
+[![Hacker News](assets/hacker-news-badge.svg)](https://news.ycombinator.com/item?id=50405263)
+
 ComfyUI custom nodes and drag-and-drop workflows for [HyperFlow H3 Flash](https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash) GGUF checkpoints (`fl2va_gguf/` and `ref2va_gguf/`):
 
 - **HyperFlow GGUF Loader**: loads pruned, low-rank factored, two-time `(t, r)` GGUF checkpoints (`weights_in: auto | disk | ram`).
